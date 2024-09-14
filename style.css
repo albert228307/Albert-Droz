@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+p{
+    font-size: larger;
+    background-color: crimson;
+}
+img{
+    border-radius: 10%;
+}
